@@ -1,0 +1,153 @@
+@media only screen and (max-width: 450px) {
+    .first-background{
+        height:300vh;
+    }
+    .header{
+        position:relative;
+        height: auto;
+    }
+
+    .navbar{
+        display:flex;
+        flex-direction: column;
+    }
+    .navmanu ul{
+        flex-direction: column;
+        padding:5px;
+        margin:0px;
+        margin-left:20px;
+    }
+    .navmanu ul li{
+        width: 100%;
+        margin: 20px 0;
+    }
+    .fa-magnifying-glass{
+         display: none;
+    }
+
+    .src{
+        display: none;
+    }
+    .button{
+        display: none;
+    }
+
+
+
+
+    .home-background{
+    height: 150vh;
+}
+
+.home-contant{
+    margin-left: 50px;
+    
+}
+.home-background h1{
+    font-size: 40px;
+}
+.home-background .frist-website{
+    font-size: 40px;
+}
+.home-background span{
+    margin-left:0px;
+    font-size: 40px;
+}
+
+.first-web-pera{
+    padding-right:10px;
+    text-align:justify;
+    font-size: 10px;
+    color:black;
+}
+.home-learn-more{
+    font-size: 20px;
+}
+
+
+
+.about1-div{
+    flex-direction: column;
+   }
+
+   .name-datels{
+    margin-top: 100px;
+    margin-left:20px;
+}
+
+.hello{
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.rasel-ahmed{
+    font-size: 50px;
+    
+}
+
+.pera{
+    font-size: 25px;
+    margin-bottom: 20px;
+    
+}
+
+ul li{
+     
+    font-size: 15px;
+}
+
+.socil-link{
+    margin-top: 40px;
+}
+.fa-linkedin{
+    padding: 10px;
+}
+.fa-facebook{
+    padding: 10px;
+}
+.fa-github{
+    padding: 10px;
+}
+.fa-youtube{
+    padding: 10px;
+}
+
+.fa-solid{
+    padding: 5px;
+}
+.fa-brands{
+    margin: 5px 15px;
+    font-size: 20px;
+}  
+
+.profile img{
+    border-radius:40% 0 40% 0%;
+    outline: 10px solid #dfe4ea;
+    border: 10px solid #f1f2f6;
+    margin-top: 100px;
+
+    animation: profile 1s ease forwards;
+}
+
+
+.about-div{
+    flex-direction: column;
+    gap: 10px;
+    margin-top:0px;
+}
+
+.avata-pic{
+    width:100%;
+}
+
+.avata-pic img{
+    width: 50%;
+}
+
+
+    
+    
+
+
+  }
