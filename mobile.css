@@ -1,0 +1,520 @@
+@media screen and (max-width:350px) {
+    
+
+    .header{
+        height: 15vh;
+    }
+
+    .logo{
+        margin: 20px auto;
+    }
+    .logo h1{
+        font-size: 30px;
+    }
+
+    .navmanu ul{
+        display: none;
+    }
+
+    .fa-magnifying-glass{
+        display: none;
+    }
+
+
+
+    .src{
+        display: none;
+    }
+
+
+    .button{
+        display: none;
+    }
+
+    /* 
+    ===============================
+    This is a Home Section Start
+    ===============================
+ */
+
+
+    .home-background{
+        height: 55vh;
+
+    }
+
+
+    .home-contant{
+        margin-left:10px;
+        padding: 5px 0;
+        
+    }
+
+    .home-background h1{
+        font-size: 25px;
+        padding-top: 15px;
+    }
+
+    .home-background .frist-website{
+        font-size: 25px;
+    }
+
+    .home-background span{
+        margin-left: 10px;
+        font-size: 25px;
+    }
+
+    .home-learn-more{
+        padding: 5px 10px;
+        font-size: 15px;
+        margin-top: 20px;
+        border-radius: 5px;
+    }
+
+    .about1-div{
+        flex-direction: column;
+        }
+        
+    .name-datels{
+        margin-top: 10px;
+        margin-left: 20px;
+         width: 100%;
+    }
+
+    .hello{
+        padding: 4px 10px;
+        font-size: 15px;
+        
+    }
+
+    .rasel-ahmed{
+        font-size: 35px;
+        
+    }
+
+    .pera{
+        font-size: 15px;
+        
+    }
+
+    ul li{
+        font-size: 15px;
+        
+    }
+    .socil-link{
+        margin-top: 20px;
+    }
+
+    .fa-linkedin{
+        padding: 10px;
+    }
+
+    .fa-facebook{
+        padding: 10px;
+    }
+
+    .fa-github{
+        padding: 10px;
+    }
+
+    .fa-youtube{
+        padding: 10px;
+    }
+
+
+    .fa-brands{
+        margin: 5px 5px;
+        font-size: 18px;
+    }
+
+    .profile img{
+        margin-top: 40px;
+        width: 60%;
+        margin-left: 50px;
+    }
+
+    .about-div{
+        flex-direction: column;
+        gap: 10px;
+        margin-top: 10px;
+    }
+
+
+    .first-background{
+        height:170vh;
+    }
+
+    .avata-pic{
+        width: 100%;
+    }
+
+    .avata-pic img{
+        width: 100%;
+    }
+
+    .about-me{
+        width: 100%;
+        padding-top: 10px;
+        padding-left: 20px;
+    }
+
+    .about-class{
+        font-size: 30px;
+        padding-bottom: 10px;
+        color:  rgb(48, 48, 48);
+    }
+
+    .responsive-pera{
+        display: none;
+    }
+
+
+    .about-pera{
+        padding-right: 10px;
+        font-size:18px;
+    
+    }
+
+    .section-01{
+        margin-top:10px;
+    }
+
+    .section-01 ul li{
+        margin: 5px 5px;
+    }
+
+    .btn{
+        margin-top: 30px;
+        padding: 5px 15px;
+        margin-bottom: 20px;
+    }
+
+    /* 
+    ===============================
+    This is a Servise Section start
+    ===============================
+ */
+
+ .service-div{
+    background-color:rgb(248, 248, 248);
+    height: 180vh;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+
+.label{
+    font-size: 25px;
+    padding-bottom: 20px;
+    letter-spacing: 2px;
+    }
+
+    .service-content{
+        flex-direction: column;
+        gap: 15px;
+        margin: 20px auto;
+        margin-left: 30px;
+    }
+
+    .fa-code{
+        padding-left: 20px;
+        padding-top: 20px;
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+
+    .web-dev{
+        padding-left: 20px;
+        padding-bottom: 20px;
+    }
+    .web-pera{
+        padding-left: 20px;
+        font-size: 15px;
+    }
+    .web-development{
+        width: 100%;
+        height: 250px;
+
+    }
+
+
+    .fa-record-vinyl{
+        padding-left: 20px;
+        padding-top: 20px;
+        font-size: 15px;
+        padding-bottom: 15px;
+    }
+    .ui-desn{
+        padding-left: 20px;
+        padding-bottom: 20px;
+    }
+    .ui-pera{
+        padding-left: 20px;
+        font-size: 15px;
+    }
+    .UI-Design{
+        width: 100%;
+        height: 250px;
+    }
+
+
+    .fa-snowflake{
+        padding-left: 20px;
+        padding-top: 20px;
+        font-size: 15px;
+        padding-bottom: 15px;
+    }
+    .app-dev{
+        padding-left: 20px;
+        padding-bottom: 20px;
+    }
+    .app-pera{
+        padding-left: 20px;
+        font-size: 15px;
+    }
+    
+    .App-Development{
+        background-colo:white;
+        width: 100%;
+        height: 250px;
+    }
+    /* 
+    ===============================
+    This is a Skill Section start
+    ===============================
+ */
+
+
+    
+ .skill-div{
+    flex-direction: column;
+    margin-bottom: 20px;
+    gap: 10px;
+}
+.Technical-Skills{
+    width: 100%;
+}
+
+.Technical-Skills h1{
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.Technical-Skills ul li{
+    margin: 20px;
+    font-size: 15px;
+}
+
+
+.professional-skill{
+    width: 100%;
+}
+
+.professional-skill h1{
+    font-size:25px;
+}
+
+.professional-content ul{
+    margin-top: 20px;
+}
+
+
+/* 
+    ===============================
+    This is a Experience Section start
+    ===============================
+ */
+
+ .work-exp{
+    font-size: 25px;
+    letter-spacing: 3px;
+ 
+}
+
+
+.experiences{
+    width: 100%;
+    height: 166vh;
+}
+
+.exprience-contant{
+    flex-direction: column;
+}
+
+
+.work-experience{
+    width: 100%;
+    margin-left:20px;
+    height: 70vh;
+}
+
+.work-header{
+    margin:5px 0;
+    padding: 20px;
+}
+
+.work-header h1{
+    font-size: 15px;
+}
+
+.wark-resp{
+    display: none;
+}
+
+.work-header span{
+    font-size: 15px;
+}
+
+.work-responsibility{
+    margin:10px;
+    padding: 5px 10px;
+}
+.work-header samp{
+    font-size: 12px;
+}
+.present{
+    float: right;
+    font-size:15px;
+}
+
+
+
+.work-experience-tow{
+    width: 100%;
+    margin-left: 50px;
+    height: 80vh;
+}
+.exprience-contant{
+    display: flex;
+    gap:10px;
+}
+
+
+/* 
+===============================
+This is a Project Section start
+===============================
+*/
+
+.project{
+    width: 100%;
+    height:420vh;
+    padding: 15px;
+    background-color: whitesmoke;
+}
+
+.proj-headline{
+    font-size: 30px;
+    margin-bottom: 20px;
+ 
+}
+.project-contant{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.project01 .imag-box{
+    height:30vh;
+}
+
+.project01{
+    height: 70vh;
+}
+
+.read-more-btn{
+    margin-left:30%;
+    margin-top: 1%;
+}
+
+/* 
+    ===============================
+    This is a Contact Section start
+    ===============================
+ */
+
+ .contact-container{
+    background-color: #888888;
+    width: 100%;
+    height:120vh;
+    background-image: url(background-images/6068294.jpg);
+    background-size: cover;
+}
+
+.contact-div{
+    width: 100%;
+    height: 110vh;
+}
+
+.contact-div h1{
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.contact-datels{
+    width: 100%;
+    height: 70vh;
+    margin-top:20px;
+}
+
+.contact-datels label{
+    font-size: 17px;
+    padding: 5px 10px;
+}
+
+.contact-datels input{
+    margin: 5px 10px;
+    width: 95%;
+    height: 30px;
+    font-size:12px;
+    padding: 3px;
+}
+
+.contact-datels textarea{
+    margin: 5px 10px;
+    width: 95%;
+    height: 60px;
+    font-size:12px;
+    padding: 10px;
+}
+
+.send-btn{
+    font-size:16px;
+    width: 70%;
+    margin-left:10%;
+}
+
+
+/* 
+    ===============================
+    This is a Footer Section start
+    ===============================
+ */
+
+
+ .footer-container{
+    height:10vh;
+ 
+}
+
+.footer-contant{
+    width: 100%;
+}
+
+.footer-pera{
+    text-align: center;
+    font-size: 12px;
+    padding-top:10px;
+}
+
+
+.back-btn{
+ display: none;
+}
+
+
+
+
+
+
+}
