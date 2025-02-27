@@ -843,10 +843,10 @@ This is a Project Section start
 
 .project01 .imag-box{
     height:40vh;
-    background-image: url(project-img/project05.PNG);
+    background-image: url(project-img/project\ 6.PNG);
     background-repeat: no-repeat;
     background-size:cover;
-    background-position:center;
+    background-position:center
 }
 
 
@@ -910,9 +910,10 @@ This is a Project Section start
 
 .project04 .imag-box{
     height:40vh;
-    background-image: url(project-img/project\ 01.PNG);
+    background-image: url(project-img/project05.PNG);
     background-repeat: no-repeat;
     background-size:cover;
+    background-position: center;
 }
 .project04{
     height: 80vh;
