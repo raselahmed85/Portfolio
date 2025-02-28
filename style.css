@@ -1064,8 +1064,9 @@ This is a project Section End
 }
 .footer-pera{
     text-align: center;
-    font-size: 15px;
+    font-size: 14px;
     padding-top:50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .back-btn{
