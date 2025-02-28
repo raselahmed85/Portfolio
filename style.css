@@ -861,18 +861,21 @@ This is a Project Section start
 .read-more-btn{
     margin-left:30%;
     margin-top:6%;
-    padding: 5px 10px;
+    padding:8px;
     transition: 0.2s ease-in-out;
-    border-radius:2px;
-    border: 2px solid rgb(225, 225, 225);
+    border-radius:5px;
+    border: none;
+    border:1px solid #878787;
+    transition: 0.3s ease-in;
 }
 .read-more-btn a{
     text-decoration: none;
     color: black;
+    font-weight: bold;
 }
 
 .read-more-btn:hover{
-    background-color: tomato;
+    background-color: #d90a2c;
 
 }
 
@@ -1003,6 +1006,7 @@ This is a project Section End
     letter-spacing: 1px;
     border: 1px solid rgb(79, 79, 79);
     border-radius: 5px;
+    padding: 10px;
 }
 .contact-datels textarea{
     margin: 5px 10px;
@@ -1017,7 +1021,6 @@ This is a project Section End
 }
 .contact-datels ::placeholder{
     font-size:15px;
-    padding: 10px;
 }
 .send-btn{
     font-size:20px;
