@@ -91,11 +91,6 @@
 
 
 
-
-
-
-
-
 .fa-magnifying-glass{
     position: absolute;
     font-size: 10px;
@@ -905,7 +900,7 @@ This is a Project Section start
 
 .project02 .imag-box{
     height:40vh;
-    background-image: url(project-img/project03.PNG);
+    background-image: url(project-img/GhorerBazar.PNG);
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
